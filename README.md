@@ -12,7 +12,6 @@ O repositório está organizado da seguinte forma:
 - `modelo_de_regressao.pkl`: Arquivo contendo o modelo de regressão desenvolvido no projeto.
 - `project_indicium.ipynb`: Notebook contendo o código fonte do projeto, incluindo análise exploratória, desenvolvimento e validação do modelo de previsão de preços.
 - `requeriments`: Arquivo de requisitos com todos os pacotes utilizados e suas versões
-- `README.md`: Este arquivo, contendo informações sobre o projeto e instruções para sua execução.
 
 ## Como Abrir o Arquivo notebook
 
